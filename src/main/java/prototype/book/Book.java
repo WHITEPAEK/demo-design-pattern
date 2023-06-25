@@ -1,4 +1,4 @@
-package prototype;
+package prototype.book;
 
 public class Book {
 
